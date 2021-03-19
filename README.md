@@ -1,4 +1,4 @@
-# Emotion_from_video
+# Emotion Detector 
 This is a program that takes an input video and prints the emotion of the person in the video frame
 
 
